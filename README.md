@@ -84,10 +84,9 @@ Clinic-Network-Design/
 ---
 
 ## 👤 Author
-
-Your Name  
-Your Email  
-[GitHub Profile](https://github.com/yourusername)
+Zahra Farzaee
+  
+[GitHub Profile](https://github.com/zfarzaeee)
 
 ---
 
