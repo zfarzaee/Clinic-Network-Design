@@ -1,0 +1,24 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Packet Tracer
+*.pkt.bak
+*.pka.bak
+
+# GNS3
+*.gns3project
+__pycache__/
+
+# Office temp files
+~$*
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
